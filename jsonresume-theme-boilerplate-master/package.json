@@ -1,0 +1,14 @@
+{
+  "name": "Pauravi Wagh",
+  "version": "0.1",
+  "description": "Resume - SDE",
+  "author": "Pauravi Wagh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
